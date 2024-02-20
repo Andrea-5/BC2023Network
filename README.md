@@ -1,8 +1,5 @@
-//
-//  File.swift
-//  BC2023Network
-//
-//  Created by Andrea Cianchi on 20/2/24.
-//
+#BC2023Network
 
-import Foundation
+##BCNetwork
+
+Paquete de uso de red que utiliza `async/await` para uso de red. 
